@@ -4,4 +4,5 @@
 
 ```
 Para estudar na Alura é preciso dedicação.
+Executar o arquivo JavaScript com o NodeJS.
 ```
